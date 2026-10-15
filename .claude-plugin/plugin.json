@@ -1,0 +1,17 @@
+{
+  "name": "tri-uebka",
+  "description": "Хаос-тестирование клиента программы: обезьяна, саботажник и инженер с консолью ломают логику и пишут журнал погрома",
+  "version": "1.0.0",
+  "author": {
+    "name": "me0wdes, Neon3341"
+  },
+  "repository": "https://github.com/me0wdes/tri-uebka",
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "chaos",
+    "qa",
+    "monkey-testing",
+    "exploratory"
+  ]
+}
